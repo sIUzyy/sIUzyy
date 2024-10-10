@@ -2,6 +2,7 @@
 <h3 align="left">Self-taught front-end engineer with HTML, CSS, JavaScript, and React.js skills eager to learn and grow as web developer, focusing on user-friendly, visually appealing applications.</h3>
 <img align="right" alt="coding-gif" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> 
 
+<br> </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siuzyy&label=Profile%20views&color=0e75b6&style=flat" alt="siuzyy" /> </p>
 
 - 🌱 I’m currently learning **react native**
