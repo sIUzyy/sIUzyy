@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://justin-peligro.web.app](https://justin-peligro.web.app)
 
-- 💬 Ask me about **react, react native**
+- 💬 Ask me about **front-end development**
 
 - 📫 How to reach me **justinpeligro.c04@gmail.com**
 
