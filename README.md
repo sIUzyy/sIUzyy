@@ -26,9 +26,10 @@ https://media.licdn.com/dms/image/v2/D5616AQGZGi1ak77fWA/profile-displaybackgrou
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=siuzyy&show_icons=true&locale=en" alt="siuzyy" /></p>
-<br/>
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siuzyy&show_icons=true&locale=en&layout=compact" alt="siuzyy" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siuzyy&show_icons=true&locale=en&layout=compact" alt="siuzyy" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siuzyy&" alt="siuzyy" /></p>
+</div>
+
+
