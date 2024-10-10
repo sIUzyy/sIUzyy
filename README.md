@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **justinpeligro.c04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cwTXgTD-o1se0whrcNoLGO5Vb1iIxzex](https://drive.google.com/drive/folders/1cwTXgTD-o1se0whrcNoLGO5Vb1iIxzex)
+- 📄 Know about my experiences https://shorturl.at/kVtA4
 
 
 <h3 align="left">Connect with me:</h3>
