@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin Peligro</h1>
+<h1 align="left">Hi 👋, I'm Justin Peligro</h1>
 <h3 align="center">Self-taught front-end engineer with HTML, CSS, JavaScript, and React.js skills eager to learn and grow as web developer, focusing on user-friendly, visually appealing applications.</h3>
 <img align="right" alt="coding-gif" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> 
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/justin-peligro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justin-peligro/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/siuzysauur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/siuzysauur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/justin-peligro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justin-peligro/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
