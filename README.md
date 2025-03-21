@@ -1,5 +1,5 @@
 # Hi 👋, I'm Justin Peligro
-🌱 I’m currently learning AWS.<br>👨‍💻 All of my projects are available at https://justin-peligro.web.app<br>💬 Ask me about front-end development <br>📫 How  to reach me justinpeligro.c04@gmail.com <br>📄 Know about my experiences https://shorturl.at/kVtA4
+🌱 I’m currently learning Cloud Engineering with a focus on AWS.<br>👨‍💻 All of my projects are available at https://justin-peligro.web.app<br>💬 Ask me about front-end development <br>📫 How  to reach me justinpeligro.c04@gmail.com <br>📄 Know about my experiences https://shorturl.at/kVtA4
 
 
 ## 🌐 Socials:
