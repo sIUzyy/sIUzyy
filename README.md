@@ -1,5 +1,5 @@
 # Hi 👋, I'm Justin Peligro
-🌱 I’m currently learning Cloud Engineering with a focus on AWS.<br>👨‍💻 All of my projects are available at https://justincpeligroo.web.app<br>📫 How to reach me justinpeligro.c04@gmail.com
+🌱 I’m currently learning Cybersecurity.<br>👨‍💻 All of my projects are available at https://justincpeligroo.web.app<br>📫 How to reach me justinpeligro.c04@gmail.com
 
 
 ## 🌐 Socials:
